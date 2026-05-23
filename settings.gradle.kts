@@ -24,4 +24,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "MallNavigation"
 include(":app")
- 
+include(":server")
+include(":server")
+include(":server")
